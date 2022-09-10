@@ -1,1 +1,7 @@
-
+{
+  "name": "8BETA",
+  "description": "8BETA prepod pool for 8BALL",
+  "ticker": "8BETA",
+  "homepage": "https://metablx.com",
+  "extended": "https://bit.ly/8BETA_X1"
+}
